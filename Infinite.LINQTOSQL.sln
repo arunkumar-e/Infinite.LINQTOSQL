@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinite.LINQTOSQL", "Infinite.LINQTOSQL\Infinite.LINQTOSQL.csproj", "{992DBD68-B146-4CF8-A84F-590EAA3A0748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{992DBD68-B146-4CF8-A84F-590EAA3A0748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992DBD68-B146-4CF8-A84F-590EAA3A0748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{992DBD68-B146-4CF8-A84F-590EAA3A0748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{992DBD68-B146-4CF8-A84F-590EAA3A0748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {703E4129-F84F-47AB-8FF0-843E33898B3E}
+	EndGlobalSection
+EndGlobal
